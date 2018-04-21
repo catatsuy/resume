@@ -65,7 +65,7 @@ https://github.com/isucon/isucon6-final
 
   * ansibleやGoの参考実装作成など多数
   * 公開エントリーあり
-    * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは http://catatsuy.hateblo.jp/entry/2016/10/23/223202
+    * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
     * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
 
 #### 社内ISUCON
@@ -150,7 +150,7 @@ ISUCON関係のものが多い
     * 社内ISUCONの初期実装に利用
     * 社内プログラミング研修に利用（その後書籍化）
     * Ruby on Rails製のGitLabへのContribute経験あり
-      * GitLabのスロークエリを駆逐するマージリクエストを送りました - catatsuyとは http://catatsuy.hateblo.jp/entry/2015/06/16/234243
+      * GitLabのスロークエリを駆逐するマージリクエストを送りました - catatsuyとは https://catatsuy.hateblo.jp/entry/2015/06/16/234243
     * fluentdのpluginへのPR経験あり
       * fluent-plugin-mysqlへの変更が全部取り込まれました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/fluent-plugin-mysqlへの変更が全部取り込まれました-cfde4526d28b
   * JavaScript
