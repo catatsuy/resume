@@ -50,6 +50,15 @@
   * Kyoto Tycoon廃止完了後にすべてのサーバーの移転計画を立てて実施
 
 
+#### pixivのHTTP/2化
+
+  * pixivでHTTP/2を有効にする
+    * pixivでは障壁があった
+  * 公開エントリーあり
+    * pixivのHTTP/2有効化の軌跡 - pixiv inside https://inside.pixiv.blog/catatsuy/4091
+    * これからドンドン使われていくSNIについて – catatsuy – Medium https://medium.com/@catatsuy/これからドンドン使われていくsniについて-511e42254611
+
+
 ## 業務外活動
 
 ### ISUCON
