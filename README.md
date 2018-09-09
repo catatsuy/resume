@@ -8,7 +8,11 @@
 
 ## 職務経歴
 
-### ピクシブ株式会社（2013/10〜）
+### 株式会社メルカリ（2018/6〜）
+
+  * Software Engineer, Infrastructure
+
+### ピクシブ株式会社（2013/10〜2018/6）
 
   * 数ヶ月間pixivの開発を行った後、インフラ部に異動
   * インフラ部でオンプレミスでのインフラ運用、PHPのアプリケーションサーバーやMySQLサーバーの構築・運用を担当
@@ -160,7 +164,7 @@ ISUCON関係のものが多い
     * 社内プログラミング研修に利用（その後書籍化）
     * Ruby on Rails製のGitLabへのContribute経験あり
       * GitLabのスロークエリを駆逐するマージリクエストを送りました - catatsuyとは https://catatsuy.hateblo.jp/entry/2015/06/16/234243
-    * fluentdのpluginへのPR経験あり
+    * fluentdのpluginへのContribute経験あり
       * fluent-plugin-mysqlへの変更が全部取り込まれました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/fluent-plugin-mysqlへの変更が全部取り込まれました-cfde4526d28b
   * JavaScript
     * ログイン基盤作成に使用
