@@ -10,7 +10,8 @@
 
 ### 株式会社メルカリ（2018/6〜）
 
-  * Software Engineer, Infrastructure
+  * メルカリSREチーム
+  * Software Engineer, Infrastructure https://mercari.workable.com/j/8F24A69919
 
 ### ピクシブ株式会社（2013/10〜2018/6）
 
@@ -69,8 +70,10 @@
 
 ISUCON公式Blog http://isucon.net/
 
-  * ISUCON4 準優勝
+  * ISUCON8 3位
+  * ISUCON6 運営・本選出題
   * ISUCON5 本選出場
+  * ISUCON4 準優勝
 
 ISUCON6は運営として本選の問題を出題
 
@@ -114,6 +117,7 @@ https://github.com/catatsuy/private-isu
 ISUCON関係のものが多い
 
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
+    * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
     * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
   * catatsuy/gist: upload code to gist https://github.com/catatsuy/gist
 
@@ -122,9 +126,11 @@ ISUCON関係のものが多い
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+  * mercari.go #4を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2018/11/16/120000
+    * 発表資料 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
   * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
     * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT http://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
-    * ヤフー・クックパッド・ピクシブの現場エンジニアが語った、HTTPS化の裏側と対応のコツとは？｜CodeIQ MAGAZINE https://codeiq.jp/magazine/2017/08/52817/
+    * ヤフー・クックパッド・ピクシブの現場エンジニアが語った、HTTPS化の裏側と対応のコツとは？｜CodeIQ MAGAZINE（CodeIQ MAGAZINE提供終了のためアーカイブ） https://getnews.jp/archives/1882952
   * GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
     * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
     * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
@@ -151,6 +157,8 @@ ISUCON関係のものが多い
 ## プログラミングスキル
 
   * Go
+    * HTTPプロクシサーバー開発
+      * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
     * 広告配信サーバー開発
     * ISUCONのベンチマーカー
     * ISUCON参考実装作成
