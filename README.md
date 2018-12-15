@@ -16,13 +16,13 @@
 ### ピクシブ株式会社（2013/10〜2018/6）
 
   * 数ヶ月間pixivの開発を行った後、インフラ部に異動
+  * 2016年4月に開発部に再び異動、様々な開発に関わる
+    * pixivのPHP7化やHTTPS化、pixivFANBOXリリースなど多数
+    * 広告サーバーの新機能リリースも担当
   * インフラ部でオンプレミスでのインフラ運用、PHPのアプリケーションサーバーやMySQLサーバーの構築・運用を担当
     * 新しい広告サーバーのリリースにインフラ担当として関わり、一部の配信サーバーの実装も担当
     * 採用の内容を充実させるためにインターン生用のpixivの開発環境を作成、インターンの内容を飛躍的に充実させた
       * インターンを支えるpixivの開発環境 - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2015/04/06/161536
-  * 2016年4月に開発部に再び異動、様々な開発に関わる
-    * pixivのPHP7化やHTTPS化、pixivFANBOXリリースなど多数
-    * 広告サーバーの新機能リリースも担当
 
 ### ソフトウェア開発
 
@@ -41,7 +41,6 @@
 #### pixivのHTTPS化
 
   * PHPで構築された大規模サービスのHTTPS化
-  * 公開エントリーあり
     * pixivを常時HTTPS化するまでの道のり（前編） - pixiv inside https://inside.pixiv.blog/catatsuy/1746
     * pixivを常時HTTPS化するまでの道のり（後編） - pixiv inside https://inside.pixiv.blog/catatsuy/1872
 
@@ -49,7 +48,6 @@
 #### pixivのPHP7化
 
   * PHP7化の前にKyoto Tycoon廃止とpeclのmemcacheを廃止
-  * 公開エントリーあり
     * 開発基盤チームが目指す事 #pixiv_night - Qiita https://qiita.com/catatsuy/items/f1338f6f3206b829120d
     * 私とHTTPS化とnginx-luaとPerl - Qiita https://qiita.com/catatsuy/items/33d2615ea03c484dbdad
   * Kyoto Tycoon廃止完了後にすべてのサーバーの移転計画を立てて実施
@@ -57,9 +55,7 @@
 
 #### pixivのHTTP/2化
 
-  * pixivでHTTP/2を有効にする
-    * pixivでは障壁があった
-  * 公開エントリーあり
+  * pixivでは障壁があったHTTP/2を有効にする
     * pixivのHTTP/2有効化の軌跡 - pixiv inside https://inside.pixiv.blog/catatsuy/4091
     * これからドンドン使われていくSNIについて – catatsuy – Medium https://medium.com/@catatsuy/これからドンドン使われていくsniについて-511e42254611
 
@@ -80,7 +76,6 @@ ISUCON6は運営として本選の問題を出題
 https://github.com/isucon/isucon6-final
 
   * ansibleやGoの参考実装作成など多数
-  * 公開エントリーあり
     * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
     * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
 
