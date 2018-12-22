@@ -97,12 +97,14 @@ https://github.com/catatsuy/private-isu
 
 ### オープンソース貢献
 
-日常的に行っている。直近行ったものをいくつか紹介する。
+日常的に行っている。いくつかリンクを紹介する。
 
+  * net/http: fix the old url about deflate (Iaa146829) · Gerrit Code Review https://go-review.googlesource.com/c/go/+/155217
   * support to add relative path dynamic-module in configure by catatsuy · Pull Request #343 · openresty/openresty https://github.com/openresty/openresty/pull/343
   * Can not execute code written in README by catatsuy · Pull Request #187 · pelletier/go-toml https://github.com/pelletier/go-toml/pull/187
   * Support for LibreSSL by catatsuy · Pull Request #23 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/23
   * replace wget with the implementation of go by catatsuy · Pull Request #25 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/25
+  * save it as a temporary file during downloading by catatsuy · Pull Request #40 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/40
   * remove cgo by catatsuy · Pull Request #5 · cubicdaiya/cachectl https://github.com/cubicdaiya/cachectl/pull/5
   * add unixtimestamp_key_names by catatsuy · Pull Request #47 · tagomoris/fluent-plugin-mysql https://github.com/tagomoris/fluent-plugin-mysql/pull/47
 
