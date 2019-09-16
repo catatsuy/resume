@@ -73,7 +73,7 @@ ISUCON公式Blog http://isucon.net/
   * ISUCON5 本選出場
   * ISUCON4 準優勝
 
-#### ISUCON9
+#### ISUCON9 (2019)
 
 運営として予選の問題を出題
 
@@ -82,7 +82,7 @@ https://github.com/isucon/isucon9-qualify
   * 参照実装の実装・ベンチマーカーの実装など多数
     * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://medium.com/@catatsuy/isucon9-qualify-969c3abdf011
 
-#### ISUCON6
+#### ISUCON6 (2016)
 
 運営として本選の問題を出題
 
@@ -92,7 +92,7 @@ https://github.com/isucon/isucon6-final
     * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
     * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
 
-#### 社内ISUCON
+#### 社内ISUCON (2016)
 
 ISUCON運営準備として社内ISUCONを作成。社内ISUCONとして採用実績多数、GitHubのスターも100超え。
 
@@ -100,7 +100,7 @@ https://github.com/catatsuy/private-isu
 
   * 問題の発案、Rubyの初期実装作成
   * Goによるベンチマーカー作成
-  * Goの参考実装作成
+  * Goの参照実装作成
 
 など多数のことを行った。
 
@@ -150,7 +150,7 @@ ISUCON関係のものが多い
 ## 著作
 
   * pixivエンジニアが教えるプログラミング入門 (星海社新書) | 金子 達哉 |本 | 通販 | Amazon https://www.amazon.co.jp/dp/4061385682
-    * 単著
+    * 単著 (2015)
     * 自分が発案した社内のプログラミング研修の内容の書籍化
 
 以下はレビューを行ったもの
@@ -169,7 +169,7 @@ ISUCON関係のものが多い
       * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
     * 広告配信サーバー開発
     * ISUCONのベンチマーカー
-    * ISUCON参考実装作成
+    * ISUCON参照実装作成
   * PHP
     * pixivの開発で主に利用
     * PHP7化も担当
