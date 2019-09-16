@@ -11,7 +11,7 @@
 ### 株式会社メルカリ（2018/6〜）
 
   * メルカリSREチーム
-  * Software Engineer, Infrastructure https://mercari.workable.com/j/8F24A69919
+  * Software Engineer, Infrastructure
 
 ### ピクシブ株式会社（2013/10〜2018/6）
 
@@ -66,16 +66,29 @@
 
 ISUCON公式Blog http://isucon.net/
 
+  * ISUCON9 運営・予選出題
   * ISUCON8 3位
+  * ISUCON7 予選敗退
   * ISUCON6 運営・本選出題
   * ISUCON5 本選出場
   * ISUCON4 準優勝
 
-ISUCON6は運営として本選の問題を出題
+#### ISUCON9
+
+運営として予選の問題を出題
+
+https://github.com/isucon/isucon9-qualify
+
+  * 参照実装の実装・ベンチマーカーの実装など多数
+    * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://medium.com/@catatsuy/isucon9-qualify-969c3abdf011
+
+#### ISUCON6
+
+運営として本選の問題を出題
 
 https://github.com/isucon/isucon6-final
 
-  * ansibleやGoの参考実装作成など多数
+  * ansibleやGoの参照実装作成など多数
     * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
     * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
 
@@ -116,8 +129,6 @@ ISUCON関係のものが多い
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
     * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
-  * catatsuy/gist: upload code to gist https://github.com/catatsuy/gist
-
 
 ### 登壇
 
