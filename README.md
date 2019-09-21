@@ -12,17 +12,16 @@
 
   * メルカリSREチーム
   * Software Engineer, Infrastructure
+  * Goを中心に開発を行いつつ、CDNの管理やログデータ基盤などを担当
 
 ### ピクシブ株式会社（2013/10〜2018/6）
 
   * 数ヶ月間pixivの開発を行った後、インフラ部に異動
   * 2016年4月に開発部に再び異動、様々な開発に関わる
-    * pixivのPHP7化やHTTPS化、pixivFANBOXリリースなど多数
+    * pixivのPHP7.1化やHTTPS化、pixivFANBOXリリースなど多数
     * 広告サーバーの新機能リリースも担当
   * インフラ部でオンプレミスでのインフラ運用、PHPのアプリケーションサーバーやMySQLサーバーの構築・運用を担当
     * 新しい広告サーバーのリリースにインフラ担当として関わり、一部の配信サーバーの実装も担当
-    * 採用の内容を充実させるためにインターン生用のpixivの開発環境を作成、インターンの内容を飛躍的に充実させた
-      * インターンを支えるpixivの開発環境 - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2015/04/06/161536
 
 ### ソフトウェア開発
 
@@ -45,9 +44,9 @@
     * pixivを常時HTTPS化するまでの道のり（後編） - pixiv inside https://inside.pixiv.blog/catatsuy/1872
 
 
-#### pixivのPHP7化
+#### pixivのPHP7.1化
 
-  * PHP7化の前にKyoto Tycoon廃止とpeclのmemcacheを廃止
+  * PHP7.1化の前にKyoto Tycoon廃止とpeclのmemcacheを廃止
     * 開発基盤チームが目指す事 #pixiv_night - Qiita https://qiita.com/catatsuy/items/f1338f6f3206b829120d
     * 私とHTTPS化とnginx-luaとPerl - Qiita https://qiita.com/catatsuy/items/33d2615ea03c484dbdad
   * Kyoto Tycoon廃止完了後にすべてのサーバーの移転計画を立てて実施
@@ -57,7 +56,6 @@
 
   * pixivでは障壁があったHTTP/2を有効にする
     * pixivのHTTP/2有効化の軌跡 - pixiv inside https://inside.pixiv.blog/catatsuy/4091
-    * これからドンドン使われていくSNIについて – catatsuy – Medium https://medium.com/@catatsuy/これからドンドン使われていくsniについて-511e42254611
 
 
 ## 業務外活動
@@ -144,9 +142,6 @@ ISUCON関係のものが多い
     * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
     * GitLabの運用方法をドーンと公開！！ - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2016/12/17/100000
 
-他多数
-
-
 ## 著作
 
   * pixivエンジニアが教えるプログラミング入門 (星海社新書) | 金子 達哉 |本 | 通販 | Amazon https://www.amazon.co.jp/dp/4061385682
@@ -161,18 +156,23 @@ ISUCON関係のものが多い
   * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
     * 元々は自分に執筆依頼が来たが、社内の後輩に譲り、レビューを行った
 
+## 公開エントリ
+
+  * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
+  * Google Cloud Functionsを使ってSlackで簡単にCDN上のキャッシュを消せるようにする話 - Mercari Engineering Blog https://tech.mercari.com/entry/2019/09/20/110000
+  * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://medium.com/@catatsuy/政府によるインターネットの検閲とsniについて-5339da2fad7c
+  * これからドンドン使われていくSNIについて – catatsuy – Medium https://medium.com/@catatsuy/これからドンドン使われていくsniについて-511e42254611
 
 ## プログラミングスキル
 
   * Go
-    * HTTPプロクシサーバー開発
-      * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
-    * 広告配信サーバー開発
     * ISUCONのベンチマーカー
     * ISUCON参照実装作成
+    * 広告配信サーバー開発
+    * 他多数
   * PHP
     * pixivの開発で主に利用
-    * PHP7化も担当
+    * PHP7.1化も担当
     * pixivFANBOXのリリース、内部実装の見直しなど、アプリケーションの実装を多数担当
   * Ruby
     * Ruby on Railsのアプリケーションサーバーの運用を担当
