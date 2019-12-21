@@ -134,8 +134,10 @@ ISUCON関係のものが多い
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+  * mercari.go #11を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2019/10/11/160000
+    * 発表資料 ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
   * mercari.go #4を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2018/11/16/120000
-    * 発表資料 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
+    * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
   * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
     * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT http://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
     * ヤフー・クックパッド・ピクシブの現場エンジニアが語った、HTTPS化の裏側と対応のコツとは？｜CodeIQ MAGAZINE（CodeIQ MAGAZINE提供終了のためアーカイブ） https://getnews.jp/archives/1882952
@@ -160,6 +162,7 @@ ISUCON関係のものが多い
 
 ## 公開エントリ
 
+  * gaurunとGoのHTTP/2事情について - Mercari Engineering Blog https://tech.mercari.com/entry/2019/12/13/110000
   * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
   * Google Cloud Functionsを使ってSlackで簡単にCDN上のキャッシュを消せるようにする話 - Mercari Engineering Blog https://tech.mercari.com/entry/2019/09/20/110000
   * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://medium.com/@catatsuy/政府によるインターネットの検閲とsniについて-5339da2fad7c
