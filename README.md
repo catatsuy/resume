@@ -115,6 +115,8 @@ https://github.com/catatsuy/private-isu
   * net/http: fix the old url about deflate (Iaa146829) · Gerrit Code Review https://go-review.googlesource.com/c/go/+/155217
   * support to add relative path dynamic-module in configure by catatsuy · Pull Request #343 · openresty/openresty https://github.com/openresty/openresty/pull/343
   * Can not execute code written in README by catatsuy · Pull Request #187 · pelletier/go-toml https://github.com/pelletier/go-toml/pull/187
+  * support token based provider for APNs by catatsuy · Pull Request #138 · mercari/gaurun https://github.com/mercari/gaurun/pull/138
+  * remove golang.org/x/net/http2 by catatsuy · Pull Request #130 · mercari/gaurun https://github.com/mercari/gaurun/pull/130
   * Support for LibreSSL by catatsuy · Pull Request #23 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/23
   * replace wget with the implementation of go by catatsuy · Pull Request #25 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/25
   * save it as a temporary file during downloading by catatsuy · Pull Request #40 · cubicdaiya/nginx-build https://github.com/cubicdaiya/nginx-build/pull/40
@@ -157,7 +159,6 @@ ISUCON関係のものが多い
   * WEB+DB PRESS Vol.100 特集2 対応必須！ 完全HTTPS化 移行手順からつまずくポイントまで
     * コラムでpixivの事例紹介あり
   * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
-    * 元々は自分に執筆依頼が来たが、社内の後輩に譲り、レビューを行った
 
 ## 公開エントリ
 
