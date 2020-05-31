@@ -140,7 +140,6 @@ ISUCON関係のものが多い
     * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
   * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
     * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT http://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
-    * ヤフー・クックパッド・ピクシブの現場エンジニアが語った、HTTPS化の裏側と対応のコツとは？｜CodeIQ MAGAZINE（CodeIQ MAGAZINE提供終了のためアーカイブ） https://getnews.jp/archives/1882952
   * GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
     * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
     * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
