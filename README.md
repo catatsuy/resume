@@ -77,6 +77,8 @@ ISUCON公式Blog https://isucon.net/
 
 https://github.com/isucon/isucon9-qualify
 
+ISUCON9 予選問題の解説と講評 : ISUCON公式Blog https://isucon.net/archives/53789931.html
+
   * 参照実装の実装・ベンチマーカーの実装など多数
     * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://catatsuy.medium.com/isucon9-qualify-969c3abdf011
     * ISUCONのベンチマーカーとGo
