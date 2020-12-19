@@ -62,7 +62,7 @@
 
 ### ISUCON
 
-ISUCON公式Blog http://isucon.net/
+ISUCON公式Blog https://isucon.net/
 
   * ISUCON9 運営・予選出題
   * ISUCON8 3位
@@ -141,7 +141,7 @@ ISUCON関係のものが多い
   * mercari.go #4を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2018/11/16/120000
     * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
   * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
-    * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT http://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
+    * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT https://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
   * GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
     * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
     * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
