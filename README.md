@@ -31,7 +31,7 @@
   * リリース時はインフラ全般と配信サーバーを中心に担当、その後は運用・新機能仕様策定・配信サーバーの機能追加を担当
   * 公開資料多数
     * テクノロジー x ビジネスで広告を本気で変革する。pixiv流 広告プロダクトの作り方 - pixiv inside https://inside.pixiv.blog/yattyo/3587
-    * logrotateの設定とファイルのアクセスモードについて – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/logrotateの設定とファイルのアクセスモードについて-f9719352dada
+    * logrotateの設定とファイルのアクセスモードについて – Tatsuya Kaneko – Medium https://catatsuy.medium.com/logrotateの設定とファイルのアクセスモードについて-f9719352dada
     * ピクシブ社内広告サーバーに新機能を追加するためにボクがやったこと - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2015/12/15/180227
     * ピクシブ社内広告サーバーでのGoの開発・運用 #gocon /p_ads_server_gocon2015 // Speaker Deck https://speakerdeck.com/catatsuy/p-ads-server-gocon2015
     * ピクシブ新広告サーバー構築物語 // Speaker Deck https://speakerdeck.com/catatsuy/pikusibuxin-guang-gao-sabagou-zhu-wu-yu
@@ -78,7 +78,7 @@ ISUCON公式Blog https://isucon.net/
 https://github.com/isucon/isucon9-qualify
 
   * 参照実装の実装・ベンチマーカーの実装など多数
-    * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://medium.com/@catatsuy/isucon9-qualify-969c3abdf011
+    * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://catatsuy.medium.com/isucon9-qualify-969c3abdf011
     * ISUCONのベンチマーカーとGo
  https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
 
@@ -130,15 +130,15 @@ ISUCON関係のものが多い
 
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
-    * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
+    * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://catatsuy.medium.com/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
 
 ### 登壇
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
-  * mercari.go #11を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2019/10/11/160000
+  * mercari.go #11を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-10-11-160000/
     * 発表資料 ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
-  * mercari.go #4を開催しました - Mercari Engineering Blog https://tech.mercari.com/entry/2018/11/16/120000
+  * mmercari.go #4を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-11-16-120000/
     * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
   * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
     * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT https://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
@@ -162,11 +162,12 @@ ISUCON関係のものが多い
 
 ## 公開エントリ
 
-  * gaurunとGoのHTTP/2事情について - Mercari Engineering Blog https://tech.mercari.com/entry/2019/12/13/110000
-  * Goでproxy serverを作るときにハマるポイント - Mercari Engineering Blog https://tech.mercari.com/entry/2018/12/05/105737
-  * Google Cloud Functionsを使ってSlackで簡単にCDN上のキャッシュを消せるようにする話 - Mercari Engineering Blog https://tech.mercari.com/entry/2019/09/20/110000
-  * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://medium.com/@catatsuy/政府によるインターネットの検閲とsniについて-5339da2fad7c
-  * これからドンドン使われていくSNIについて – catatsuy – Medium https://medium.com/@catatsuy/これからドンドン使われていくsniについて-511e42254611
+  * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
+  * gaurunとGoのHTTP/2事情について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-12-13-110000/
+  * Goでproxy serverを作るときにハマるポイント | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-12-05-105737/
+  * Google Cloud Functionsを使ってSlackで簡単にCDN上のキャッシュを消せるようにする話 | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-09-20-110000/
+  * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://catatsuy.medium.com/政府によるインターネットの検閲とsniについて-5339da2fad7c
+  * これからドンドン使われていくSNIについて – catatsuy – Medium https://catatsuy.medium.com/これからドンドン使われていくsniについて-511e42254611
 
 ## プログラミングスキル
 
@@ -186,7 +187,7 @@ ISUCON関係のものが多い
     * Ruby on Rails製のGitLabへのContribute経験あり
       * GitLabのスロークエリを駆逐するマージリクエストを送りました - catatsuyとは https://catatsuy.hateblo.jp/entry/2015/06/16/234243
     * fluentdのpluginへのContribute経験あり
-      * fluent-plugin-mysqlへの変更が全部取り込まれました – Tatsuya Kaneko – Medium https://medium.com/@catatsuy/fluent-plugin-mysqlへの変更が全部取り込まれました-cfde4526d28b
+      * fluent-plugin-mysqlへの変更が全部取り込まれました – Tatsuya Kaneko – Medium https://catatsuy.medium.com/fluent-plugin-mysqlへの変更が全部取り込まれました-cfde4526d28b
   * JavaScript
     * ログイン基盤作成に使用
       * ポップアップウィンドウを使用してログイン基盤を作るときにハマるJavaScriptのポイント - Qiita https://qiita.com/catatsuy/items/babce8726ea78f5d25b1
