@@ -81,8 +81,8 @@ ISUCON9 予選問題の解説と講評 : ISUCON公式Blog https://isucon.net/arc
 
   * 参照実装の実装・ベンチマーカーの実装など多数
     * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://catatsuy.medium.com/isucon9-qualify-969c3abdf011
-    * ISUCONのベンチマーカーとGo
- https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
+    * ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
+    * isucandarとISUCON9予選ベンチマーカーについて https://zenn.dev/catatsuy/articles/500a437427fedf281c23
 
 #### ISUCON6 (2016)
 
