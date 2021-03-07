@@ -13,6 +13,7 @@
   * メルカリSREチーム → Developer Productivity Engineering Networkチーム
   * Software Engineer, Infrastructure
   * Goを中心に開発、CDNの管理やログデータ基盤などを担当
+  * メルカリ越境ECのリリースなどを担当
 
 ### ピクシブ株式会社（2013/10〜2018/6）
 
