@@ -10,9 +10,9 @@
 
 ### 株式会社メルカリ（2018/6〜）
 
-  * メルカリSREチーム
+  * メルカリSREチーム → Developer Productivity Engineering Networkチーム
   * Software Engineer, Infrastructure
-  * Goを中心に開発を行いつつ、CDNの管理やログデータ基盤などを担当
+  * Goを中心に開発、CDNの管理やログデータ基盤などを担当
 
 ### ピクシブ株式会社（2013/10〜2018/6）
 
