@@ -8,7 +8,7 @@
 
 ## 職務経歴
 
-### 株式会社メルカリ（2018/6〜）
+### 株式会社メルカリ（2018/6〜2021/03）
 
   * メルカリSREチーム → Developer Productivity Engineering Networkチーム
   * Software Engineer, Infrastructure
