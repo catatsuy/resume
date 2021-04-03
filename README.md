@@ -120,6 +120,7 @@ https://github.com/catatsuy/private-isu
 
   * net/http: fix the old url about deflate (Iaa146829) · Gerrit Code Review https://go-review.googlesource.com/c/go/+/155217
   * support to add relative path dynamic-module in configure by catatsuy · Pull Request #343 · openresty/openresty https://github.com/openresty/openresty/pull/343
+  * fix data race by catatsuy · Pull Request #164 · sideshow/apns2 https://github.com/sideshow/apns2/pull/164
   * Can not execute code written in README by catatsuy · Pull Request #187 · pelletier/go-toml https://github.com/pelletier/go-toml/pull/187
   * support token based provider for APNs by catatsuy · Pull Request #138 · mercari/gaurun https://github.com/mercari/gaurun/pull/138
   * remove golang.org/x/net/http2 by catatsuy · Pull Request #130 · mercari/gaurun https://github.com/mercari/gaurun/pull/130
