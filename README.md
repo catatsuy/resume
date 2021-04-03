@@ -136,6 +136,7 @@ https://github.com/catatsuy/private-isu
 ISUCON関係のものが多い
 
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
+    * notify_slackの使い方 https://zenn.dev/catatsuy/articles/81cd35d09402bc2edf5d
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
     * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://catatsuy.medium.com/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
 
