@@ -65,6 +65,7 @@
 
 ISUCON公式Blog https://isucon.net/
 
+  * ISUCON10 予選敗退・並行チームとして本選参加
   * ISUCON9 運営・予選出題
   * ISUCON8 3位
   * ISUCON7 予選敗退
