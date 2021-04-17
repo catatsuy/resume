@@ -8,6 +8,10 @@
 
 ## 職務経歴
 
+### 株式会社PR TIMES（2021/04〜）
+
+  * 執行役員CTO 兼 開発本部長
+
 ### 株式会社メルカリ（2018/6〜2021/03）
 
   * メルカリSREチーム → Developer Productivity Engineering Networkチーム
