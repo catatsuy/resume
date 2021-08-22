@@ -69,6 +69,7 @@
 
 ISUCON公式Blog https://isucon.net/
 
+  * ISUCON11 予選敗退
   * ISUCON10 予選敗退・並行チームとして本選参加
   * ISUCON9 運営・予選出題
   * ISUCON8 3位
@@ -118,6 +119,15 @@ https://github.com/catatsuy/private-isu
   * 社内ISUCONを公開したら広く使われた話 - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2016/09/26/130112
     * このエントリー公開後にも増えている
 
+過去ISUCON公式で練習問題として推奨されたことがある。
+
+* ISUCON初心者のためのISUCON7予選対策 : ISUCON公式Blog https://isucon.net/archives/50697356.html
+
+その後、2021年にもう一度社内ISUCONとして復活させた。
+
+* 社内ISUCON “TIMES-ISUCON” を開催しました！ | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/06/04/times-isucon-1/
+* TIMES-ISUCON開催のために5年前のリポジトリに入れた変更を紹介！ | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/06/07/times-isucon-1-appendix/
+
 ### オープンソース貢献
 
 日常的に行っている。いくつかリンクを紹介する。
@@ -152,8 +162,6 @@ ISUCON関係のものが多い
     * 発表資料 ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
   * mercari.go #4を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-11-16-120000/
     * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
-  * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
-    * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT https://www.atmarkit.co.jp/ait/articles/1707/13/news010.html
   * GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
     * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
     * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
@@ -172,7 +180,13 @@ ISUCON関係のものが多い
     * コラムでpixivの事例紹介あり
   * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
 
-## 公開エントリ
+## 考え方など公開エントリ
+
+* PR TIMESの開発本部が目指すこと−PR TIMES 開発者ブログ開設に寄せて− | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/04/23/goals_dev_div/
+* ソフトウェアエンジニアが執行役員CTOになった理由 - catatsuy - Medium https://catatsuy.medium.com/ソフトウェアエンジニアが執行役員ctoになった理由-3474c638fa18
+* 「一人じゃない」と思えるチームビルディングが鍵　PHPバージョンアップのために欠かせない“精神論” | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/08/20/php-versionup-kickoff/
+
+## 技術系公開エントリ
 
   * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
   * gaurunとGoのHTTP/2事情について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-12-13-110000/
@@ -180,6 +194,13 @@ ISUCON関係のものが多い
   * Google Cloud Functionsを使ってSlackで簡単にCDN上のキャッシュを消せるようにする話 | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-09-20-110000/
   * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://catatsuy.medium.com/政府によるインターネットの検閲とsniについて-5339da2fad7c
   * これからドンドン使われていくSNIについて – catatsuy – Medium https://catatsuy.medium.com/これからドンドン使われていくsniについて-511e42254611
+
+### メディア記事
+
+* 凄腕エンジニアも負ける学生の強さ。『ISUCON11』では勝ち筋をどう見いだす？ - エンジニアtype | 転職type https://type.jp/et/feature/17208/
+  * インタビュー記事
+* 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT https://atmarkit.itmedia.co.jp/ait/articles/1707/13/news010.html
+  * HTTPS化についてヤフー・クックパッド・ピクシブが語る！ - 大規模HTTPS導入Night - connpass https://pixiv.connpass.com/event/57970/
 
 ## プログラミングスキル
 
