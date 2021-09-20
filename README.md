@@ -147,12 +147,14 @@ https://github.com/catatsuy/private-isu
 
 ### 趣味プロダクト
 
-ISUCON関係のものが多い
-
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
     * notify_slackの使い方 https://zenn.dev/catatsuy/articles/81cd35d09402bc2edf5d
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
     * 標準入力を適当にまとめてSlackに通知するnotify_slackを作りました – Tatsuya Kaneko – Medium https://catatsuy.medium.com/標準入力を適当にまとめてslackに通知するnotify-slackを作りました-e2e725a91c64
+  * catatsuy/lls: you can get a list of files in a directory that contains a large number of files https://github.com/catatsuy/lls
+    * ファイルが多すぎてlsが打てなくなったディレクトリでファイル名のリストを出すllsを作りました https://zenn.dev/catatsuy/articles/e5f3bc7944f9fe
+    * 旧ストレージ廃止大作戦−2900万超のファイルリストを取得する | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/09/15/decommissioning_old_storage_list_a_dir_29million/
+    * lls v0.0.2をリリースしました https://zenn.dev/catatsuy/articles/7e3292778396b4
 
 ### 登壇
 
