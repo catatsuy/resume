@@ -199,6 +199,8 @@ https://github.com/catatsuy/private-isu
 
 ### メディア記事
 
+* ほんの数行でも、自分のコードが世界を変えられる！ Webサービスに魅せられた20代で技術的に諦めなかったこと - Findy Engineer Lab - ファインディエンジニアラボ https://engineer-lab.findy-code.io/prtimes-catatsuy
+  * インタビュー記事
 * 凄腕エンジニアも負ける学生の強さ。『ISUCON11』では勝ち筋をどう見いだす？ - エンジニアtype | 転職type https://type.jp/et/feature/17208/
   * インタビュー記事
 * 完全HTTPS化のメリットと極意を大規模Webサービス――ピクシブ、クックパッド、ヤフーの事例から探る：大規模HTTPS導入Night - ＠IT https://atmarkit.itmedia.co.jp/ait/articles/1707/13/news010.html
