@@ -12,6 +12,13 @@
 
   * 執行役員CTO 兼 開発本部長
 
+#### 公開エントリ
+
+* 挑戦する組織にするためにCTOになってからやったこと | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/12/28/cto_activities_2021/
+* ソフトウェアエンジニアが執行役員CTOになった理由 - catatsuy - Medium https://catatsuy.medium.com/ソフトウェアエンジニアが執行役員ctoになった理由-3474c638fa18
+* 「一人じゃない」と思えるチームビルディングが鍵　PHPバージョンアップのために欠かせない“精神論” | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/08/20/php-versionup-kickoff/
+* PR TIMESの開発本部が目指すこと−PR TIMES 開発者ブログ開設に寄せて− | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/04/23/goals_dev_div/
+
 ### 株式会社メルカリ（2018/6〜2021/03）
 
   * メルカリSREチーム → Developer Productivity Engineering Networkチーム
@@ -28,9 +35,9 @@
   * インフラ部でオンプレミスでのインフラ運用、PHPのアプリケーションサーバーやMySQLサーバーの構築・運用を担当
     * 新しい広告サーバーのリリースにインフラ担当として関わり、一部の配信サーバーの実装も担当
 
-### ソフトウェア開発
+## ソフトウェア開発
 
-#### 社内広告サーバーのリリース・運用・開発
+### 社内広告サーバーのリリース・運用・開発
 
   * 管理サーバーをRuby on Rails、配信サーバーをGo言語で開発
   * リリース時はインフラ全般と配信サーバーを中心に担当、その後は運用・新機能仕様策定・配信サーバーの機能追加を担当
@@ -42,26 +49,23 @@
     * ピクシブ新広告サーバー構築物語 // Speaker Deck https://speakerdeck.com/catatsuy/pikusibuxin-guang-gao-sabagou-zhu-wu-yu
     * Golang_ads_deliver // Speaker Deck https://speakerdeck.com/catatsuy/golang-ads-deliver
 
-#### pixivのHTTPS化
+### pixivのHTTPS化
 
   * PHPで構築された大規模サービスのHTTPS化
     * pixivを常時HTTPS化するまでの道のり（前編） - pixiv inside https://inside.pixiv.blog/catatsuy/1746
     * pixivを常時HTTPS化するまでの道のり（後編） - pixiv inside https://inside.pixiv.blog/catatsuy/1872
 
-
-#### pixivのPHP7.1化
+### pixivのPHP7.1化
 
   * PHP7.1化の前にKyoto Tycoon廃止とpeclのmemcacheを廃止
     * 開発基盤チームが目指す事 #pixiv_night - Qiita https://qiita.com/catatsuy/items/f1338f6f3206b829120d
     * 私とHTTPS化とnginx-luaとPerl - Qiita https://qiita.com/catatsuy/items/33d2615ea03c484dbdad
   * Kyoto Tycoon廃止完了後にすべてのサーバーの移転計画を立てて実施
 
-
 #### pixivのHTTP/2化
 
   * pixivでは障壁があったHTTP/2を有効にする
     * pixivのHTTP/2有効化の軌跡 - pixiv inside https://inside.pixiv.blog/catatsuy/4091
-
 
 ## 業務外活動
 
@@ -181,12 +185,6 @@ https://github.com/catatsuy/private-isu
   * WEB+DB PRESS Vol.100 特集2 対応必須！ 完全HTTPS化 移行手順からつまずくポイントまで
     * コラムでpixivの事例紹介あり
   * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
-
-## 考え方など公開エントリ
-
-* PR TIMESの開発本部が目指すこと−PR TIMES 開発者ブログ開設に寄せて− | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/04/23/goals_dev_div/
-* ソフトウェアエンジニアが執行役員CTOになった理由 - catatsuy - Medium https://catatsuy.medium.com/ソフトウェアエンジニアが執行役員ctoになった理由-3474c638fa18
-* 「一人じゃない」と思えるチームビルディングが鍵　PHPバージョンアップのために欠かせない“精神論” | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/08/20/php-versionup-kickoff/
 
 ## 技術系公開エントリ
 
