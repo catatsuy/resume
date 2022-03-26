@@ -164,14 +164,16 @@ https://github.com/catatsuy/private-isu
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
-  * mercari.go #11を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-10-11-160000/
-    * 発表資料 ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
-  * mercari.go #4を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-11-16-120000/
-    * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
-  * GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
-    * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
-    * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
-    * GitLabの運用方法をドーンと公開！！ - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2016/12/17/100000
+* レガシーと戦う開発組織の作り方 https://gist.github.com/catatsuy/dc6762092ad662427982dbcce3f239a3
+* データで振り返るエンジニア組織の生産性向上 〜NewsPicks & PR TIMESの事例、DevOpsの取り組みからデプロイ頻度の計測まで〜 | Findy Teams Lab https://engineering-org.findy-teams.com/posts/newspicks-prtimes/
+* mercari.go #11を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-10-11-160000/
+  * 発表資料 ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
+* mercari.go #4を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-11-16-120000/
+  * 発表資料 GoでISUCONを戦う話 https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146
+* GitLab Meetup Tokyo #1 - connpass https://gitlab-jp.connpass.com/event/49755/
+  * ちゃんと復旧できる、GitLabのバックアップ運用方法 ─ GitLab meetup #01レポート - pixiv inside https://inside.pixiv.blog/catatsuy/805
+  * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
+  * GitLabの運用方法をドーンと公開！！ - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2016/12/17/100000
 
 ## 著作
 
