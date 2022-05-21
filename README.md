@@ -70,6 +70,22 @@
 
 ## 業務外活動
 
+### 著作
+
+* 達人が教えるWebパフォーマンスチューニング　〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社 https://gihyo.jp/book/2022/978-4-297-12846-3
+  * 共著 (2022)
+  * 執筆章：6章 リバースプロキシの利用・7章 キャッシュの活用・8章 押さえておきたい高速化手法
+* pixivエンジニアが教えるプログラミング入門 | 星海社 https://www.seikaisha.co.jp/information/2015/03/09-pixiv.html
+  * 単著 (2015)
+  * 自分が発案した社内のプログラミング研修の内容の書籍化
+
+以下はレビューを行ったもの
+
+* nginx実践入門 (WEB+DB PRESS plus) 技術評論社 久保達彦 道井俊介
+* WEB+DB PRESS Vol.100 特集2 対応必須！ 完全HTTPS化 移行手順からつまずくポイントまで
+  * コラムでpixivの事例紹介あり
+* Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
+
 ### ISUCON
 
 ISUCON公式Blog https://isucon.net/
@@ -176,19 +192,6 @@ https://github.com/catatsuy/private-isu
   * GitLabの実践的な運用 #gitlabjp - Qiita https://qiita.com/catatsuy/items/b7fda84ca9cb3dbcdc79
   * GitLabの運用方法をドーンと公開！！ - pixiv inside [archive] https://devpixiv.hatenablog.com/entry/2016/12/17/100000
 
-## 著作
-
-  * pixivエンジニアが教えるプログラミング入門 (星海社新書) | 金子 達哉 |本 | 通販 | Amazon https://www.amazon.co.jp/dp/4061385682
-    * 単著 (2015)
-    * 自分が発案した社内のプログラミング研修の内容の書籍化
-
-以下はレビューを行ったもの
-
-  * nginx実践入門 (WEB+DB PRESS plus) 技術評論社 久保達彦 道井俊介
-  * WEB+DB PRESS Vol.100 特集2 対応必須！ 完全HTTPS化 移行手順からつまずくポイントまで
-    * コラムでpixivの事例紹介あり
-  * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
-
 ## 技術系公開エントリ
 
   * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
@@ -198,9 +201,11 @@ https://github.com/catatsuy/private-isu
   * 政府によるインターネットの検閲とSNIについて - catatsuy - Medium https://catatsuy.medium.com/政府によるインターネットの検閲とsniについて-5339da2fad7c
   * これからドンドン使われていくSNIについて – catatsuy – Medium https://catatsuy.medium.com/これからドンドン使われていくsniについて-511e42254611
 
-### メディア記事
+## メディア記事
 
 * ほんの数行でも、自分のコードが世界を変えられる！ Webサービスに魅せられた20代で技術的に諦めなかったこと - Findy Engineer Lab - ファインディエンジニアラボ https://engineer-lab.findy-code.io/prtimes-catatsuy
+  * インタビュー記事
+* いちエンジニアからPR TIMES CTOへ。金子さんのキャリアアップ転職“1カ月目”に見る、「メンバーの不安を取り除く視点」の重要性 - エンジニアtype | 転職type https://type.jp/et/feature/19168/
   * インタビュー記事
 * 凄腕エンジニアも負ける学生の強さ。『ISUCON11』では勝ち筋をどう見いだす？ - エンジニアtype | 転職type https://type.jp/et/feature/17208/
   * インタビュー記事
