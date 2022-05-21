@@ -75,6 +75,7 @@
 * 達人が教えるWebパフォーマンスチューニング　〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社 https://gihyo.jp/book/2022/978-4-297-12846-3
   * 共著 (2022)
   * 執筆章：6章 リバースプロキシの利用・7章 キャッシュの活用・8章 押さえておきたい高速化手法
+  * 「達人が教えるWebパフォーマンスチューニング」という本を執筆しました #ISUCON本 #isucon｜catatsuy｜note https://note.com/catatsuy/n/nae62e6b7f710
 * pixivエンジニアが教えるプログラミング入門 | 星海社 https://www.seikaisha.co.jp/information/2015/03/09-pixiv.html
   * 単著 (2015)
   * 自分が発案した社内のプログラミング研修の内容の書籍化
