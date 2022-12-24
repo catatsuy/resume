@@ -154,6 +154,8 @@ https://github.com/catatsuy/private-isu
 
 日常的に行っている。いくつかリンクを紹介する。
 
+  * update config.sub and config.guess for M1 Mac by catatsuy · Pull Request #800 · libressl-portable/portable https://github.com/libressl-portable/portable/pull/800
+  * Remove xerrors dependency by catatsuy · Pull Request #292 · google/go-cmp https://github.com/google/go-cmp/pull/292
   * net/http: fix the old url about deflate (Iaa146829) · Gerrit Code Review https://go-review.googlesource.com/c/go/+/155217
   * support to add relative path dynamic-module in configure by catatsuy · Pull Request #343 · openresty/openresty https://github.com/openresty/openresty/pull/343
   * fix data race by catatsuy · Pull Request #164 · sideshow/apns2 https://github.com/sideshow/apns2/pull/164
