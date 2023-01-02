@@ -15,6 +15,7 @@
 
 #### 公開エントリ
 
+* PR TIMES開発本部2022年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2022/12/28/cto_activities_2022/
 * 挑戦する組織にするためにCTOになってからやったこと | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/12/28/cto_activities_2021/
 * ソフトウェアエンジニアが執行役員CTOになった理由 - catatsuy - Medium https://catatsuy.medium.com/ソフトウェアエンジニアが執行役員ctoになった理由-3474c638fa18
 * 「一人じゃない」と思えるチームビルディングが鍵　PHPバージョンアップのために欠かせない“精神論” | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/08/20/php-versionup-kickoff/
