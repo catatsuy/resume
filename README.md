@@ -127,7 +127,7 @@ https://github.com/isucon/isucon6-final
 
 #### 社内ISUCON (2016)
 
-ISUCON運営準備として社内ISUCONを作成。社内ISUCONとして採用実績多数、GitHubのスターも100超え。
+ISUCON運営準備として社内ISUCONを作成。社内ISUCONとして採用実績多数。書籍の題材としても採用されている。
 
 https://github.com/catatsuy/private-isu
 
@@ -149,6 +149,12 @@ https://github.com/catatsuy/private-isu
 
 * 社内ISUCON “TIMES-ISUCON” を開催しました！ | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/06/04/times-isucon-1/
 * TIMES-ISUCON開催のために5年前のリポジトリに入れた変更を紹介！ | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/06/07/times-isucon-1-appendix/
+
+2022年に書籍の題材としても利用。
+
+  * 達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社 https://gihyo.jp/book/2022/978-4-297-12846-3
+  * tatsujin-web-performance/tatsujin-web-performance: 達人が教えるWebパフォーマンスチューニング〜ISUCONから学ぶ高速化の実践 https://github.com/tatsujin-web-performance/tatsujin-web-performance
+  * 「達人が教えるWebパフォーマンスチューニング」という本を執筆しました #ISUCON本 #isucon｜catatsuy｜note https://note.com/catatsuy/n/nae62e6b7f710
 
 ### オープンソース貢献
 
