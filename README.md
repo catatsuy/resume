@@ -92,6 +92,7 @@
 
 ISUCON公式Blog https://isucon.net/
 
+  * ISUCON12 予選敗退
   * ISUCON11 予選敗退
   * ISUCON10 予選敗退・並行チームとして本選参加
   * ISUCON9 運営・予選出題
@@ -101,32 +102,7 @@ ISUCON公式Blog https://isucon.net/
   * ISUCON5 本選出場
   * ISUCON4 準優勝
 
-#### ISUCON9 (2019)
-
-運営として予選の問題を出題
-
-https://github.com/isucon/isucon9-qualify
-
-ISUCON9 予選問題の解説と講評 : ISUCON公式Blog https://isucon.net/archives/53789931.html
-
-  * 参照実装の実装・ベンチマーカーの実装など多数
-    * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://catatsuy.medium.com/isucon9-qualify-969c3abdf011
-    * ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
-    * isucandarとISUCON9予選ベンチマーカーについて https://zenn.dev/catatsuy/articles/500a437427fedf281c23
-  * インタビュー記事
-    * メルカリもイベント協賛するISUCONの魅力は？毎年参加しているメンバーに聞いてみた #isucon | mercan (メルカン) https://mercan.mercari.com/articles/24262/
-
-#### ISUCON6 (2016)
-
-運営として本選の問題を出題
-
-https://github.com/isucon/isucon6-final
-
-  * ansibleやGoの参照実装作成など多数
-    * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
-    * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
-
-#### 社内ISUCON (2016)
+#### 社内ISUCON (2016-2022)
 
 ISUCON運営準備として社内ISUCONを作成。社内ISUCONとして採用実績多数。書籍の題材としても採用されている。
 
@@ -156,6 +132,31 @@ https://github.com/catatsuy/private-isu
   * 達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社 https://gihyo.jp/book/2022/978-4-297-12846-3
   * tatsujin-web-performance/tatsujin-web-performance: 達人が教えるWebパフォーマンスチューニング〜ISUCONから学ぶ高速化の実践 https://github.com/tatsujin-web-performance/tatsujin-web-performance
   * 「達人が教えるWebパフォーマンスチューニング」という本を執筆しました #ISUCON本 #isucon｜catatsuy｜note https://note.com/catatsuy/n/nae62e6b7f710
+
+#### ISUCON9 (2019)
+
+運営として予選の問題を出題
+
+https://github.com/isucon/isucon9-qualify
+
+ISUCON9 予選問題の解説と講評 : ISUCON公式Blog https://isucon.net/archives/53789931.html
+
+  * 参照実装の実装・ベンチマーカーの実装など多数
+    * ISUCON9予選の出題と外部サービス・ベンチマーカーについて - catatsuy - Medium https://catatsuy.medium.com/isucon9-qualify-969c3abdf011
+    * ISUCONのベンチマーカーとGo https://gist.github.com/catatsuy/74cd66e9ff69d7da0ff3311e9dcd81fa
+    * isucandarとISUCON9予選ベンチマーカーについて https://zenn.dev/catatsuy/articles/500a437427fedf281c23
+  * インタビュー記事
+    * メルカリもイベント協賛するISUCONの魅力は？毎年参加しているメンバーに聞いてみた #isucon | mercan (メルカン) https://mercan.mercari.com/articles/24262/
+
+#### ISUCON6 (2016)
+
+運営として本選の問題を出題
+
+https://github.com/isucon/isucon6-final
+
+  * ansibleやGoの参照実装作成など多数
+    * ISUCON6が終わったので出題した感想ポエム #isucon - catatsuyとは https://catatsuy.hateblo.jp/entry/2016/10/23/223202
+    * ISUCON6本選のベンチマークでconsulを使用してクラスタを構築した話 / isucon6-night // Speaker Deck https://speakerdeck.com/catatsuy/isucon6-night
 
 ### オープンソース貢献
 
