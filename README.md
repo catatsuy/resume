@@ -163,6 +163,7 @@ https://github.com/isucon/isucon6-final
 日常的に行っている。いくつかリンクを紹介する。
 
   * update config.sub and config.guess for M1 Mac by catatsuy · Pull Request #800 · libressl-portable/portable https://github.com/libressl-portable/portable/pull/800
+  * middleware: fix broken comment on go doc by catatsuy · Pull Request #735 · go-chi/chi https://github.com/go-chi/chi/pull/735
   * Remove xerrors dependency by catatsuy · Pull Request #292 · google/go-cmp https://github.com/google/go-cmp/pull/292
   * net/http: fix the old url about deflate (Iaa146829) · Gerrit Code Review https://go-review.googlesource.com/c/go/+/155217
   * support to add relative path dynamic-module in configure by catatsuy · Pull Request #343 · openresty/openresty https://github.com/openresty/openresty/pull/343
@@ -192,6 +193,7 @@ https://github.com/isucon/isucon6-final
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+* llsとcachectlから学ぶ、Goでシステムプログラミングをする方法 https://zenn.dev/catatsuy/articles/e15714f8e253d8
 * レガシーと戦う開発組織の作り方 https://gist.github.com/catatsuy/dc6762092ad662427982dbcce3f239a3
 * データで振り返るエンジニア組織の生産性向上 〜NewsPicks & PR TIMESの事例、DevOpsの取り組みからデプロイ頻度の計測まで〜 | Findy Teams Lab https://engineering-org.findy-teams.com/posts/newspicks-prtimes/
 * mercari.go #11を開催しました | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-10-11-160000/
