@@ -94,6 +94,7 @@
 
 ISUCON公式Blog https://isucon.net/
 
+  * ISUCON13 アドバイザー
   * ISUCON12 予選敗退
   * ISUCON11 予選敗退
   * ISUCON10 予選敗退・並行チームとして本選参加
