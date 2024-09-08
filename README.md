@@ -166,6 +166,7 @@ https://github.com/isucon/isucon6-final
 
 日常的に行っている。いくつかリンクを紹介する。
 
+  * Update PCRE2 source URLs to use the new repository by catatsuy · Pull Request #126 · openresty/openresty-packaging https://github.com/openresty/openresty-packaging/pull/126
   * update config.sub and config.guess for M1 Mac by catatsuy · Pull Request #800 · libressl-portable/portable https://github.com/libressl-portable/portable/pull/800
   * middleware: fix broken comment on go doc by catatsuy · Pull Request #735 · go-chi/chi https://github.com/go-chi/chi/pull/735
   * Remove xerrors dependency by catatsuy · Pull Request #292 · google/go-cmp https://github.com/google/go-cmp/pull/292
@@ -184,6 +185,10 @@ https://github.com/isucon/isucon6-final
 
 ### 趣味プロダクト
 
+  * catatsuy/purl: Streamlining Text Processing https://github.com/catatsuy/purl
+    * sedやgrepの代替として使えるpurlを作りました https://zenn.dev/catatsuy/articles/71a51c47a3b7fa
+  * catatsuy/bento: Bundled ENhancements for Tasks and Operations https://github.com/catatsuy/bento
+    * ChatGPTのAPIを利用してGitのブランチ名・コミットメッセージを自動生成するbentoを作りました https://zenn.dev/catatsuy/articles/1b64fc13d2e0b9
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
     * notify_slackの使い方 https://zenn.dev/catatsuy/articles/81cd35d09402bc2edf5d
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
@@ -197,6 +202,9 @@ https://github.com/isucon/isucon6-final
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+* 開発生産性可視化の意義とPR TIMESの事例 発表資料 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/01/26/developer-productivity-engineering-materials/
+* 次世代Webカンファレンス 2023のPerformanceセッションで登壇しました https://zenn.dev/catatsuy/articles/8fcf2e41d9f4d2
+* CDNを活用して高速なWebサービスを提供する https://zenn.dev/catatsuy/articles/ea86bdba548ab9
 * llsとcachectlから学ぶ、Goでシステムプログラミングをする方法 https://zenn.dev/catatsuy/articles/e15714f8e253d8
 * レガシーと戦う開発組織の作り方 https://gist.github.com/catatsuy/dc6762092ad662427982dbcce3f239a3
 * データで振り返るエンジニア組織の生産性向上 〜NewsPicks & PR TIMESの事例、DevOpsの取り組みからデプロイ頻度の計測まで〜 | Findy Teams Lab https://engineering-org.findy-teams.com/posts/newspicks-prtimes/
