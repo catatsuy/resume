@@ -16,6 +16,7 @@
 
 #### 公開エントリ
 
+* PR TIMES開発本部2023年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2023/12/28/cto_activities_2023/
 * PR TIMES開発本部2022年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2022/12/28/cto_activities_2022/
 * 挑戦する組織にするためにCTOになってからやったこと | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/12/28/cto_activities_2021/
 * ソフトウェアエンジニアが執行役員CTOになった理由 - catatsuy - Medium https://catatsuy.medium.com/ソフトウェアエンジニアが執行役員ctoになった理由-3474c638fa18
@@ -166,6 +167,7 @@ https://github.com/isucon/isucon6-final
 
 日常的に行っている。いくつかリンクを紹介する。
 
+  * Fixed server name in HTTP/1.x with "server_tokens off;". · freenginx/nginx@4686993 https://github.com/freenginx/nginx/commit/4686993116523d684fc1ca4a914a66c0a4858ed4
   * Update PCRE2 source URLs to use the new repository by catatsuy · Pull Request #126 · openresty/openresty-packaging https://github.com/openresty/openresty-packaging/pull/126
   * update config.sub and config.guess for M1 Mac by catatsuy · Pull Request #800 · libressl-portable/portable https://github.com/libressl-portable/portable/pull/800
   * middleware: fix broken comment on go doc by catatsuy · Pull Request #735 · go-chi/chi https://github.com/go-chi/chi/pull/735
@@ -219,6 +221,7 @@ https://github.com/isucon/isucon6-final
 
 ## 技術系公開エントリ
 
+  * ChatGPT APIを活用したGitHub Pull Request自動レビューの実践 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/10/16/automating-github-pr-reviews-with-chatgpt-api/
   * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
   * gaurunとGoのHTTP/2事情について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-12-13-110000/
   * Goでproxy serverを作るときにハマるポイント | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2018-12-05-105737/
