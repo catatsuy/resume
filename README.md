@@ -18,6 +18,7 @@
 
 #### 公開エントリ
 
+* 2024年のPR TIMES開発者ブログ振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/12/27/cto_activities_2024/
 * PR TIMES開発本部2023年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2023/12/28/cto_activities_2023/
 * PR TIMES開発本部2022年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2022/12/28/cto_activities_2022/
 * 挑戦する組織にするためにCTOになってからやったこと | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/12/28/cto_activities_2021/
