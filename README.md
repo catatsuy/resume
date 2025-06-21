@@ -10,7 +10,9 @@
 
 ### 株式会社PR TIMES
 
-  * PR TIMES事業ユニット 開発部 開発部長CTO（2024/05〜）
+  * PR TIMES事業ユニット 第一開発部長CTO（2025/01〜）
+  * PR TIMES事業ユニット 開発部 開発部長CTO（2024/05〜2025/01）
+  * 株式会社グルコース 技術顧問（2023/03〜）
   * 開発本部長CTO（2022/04〜2024/04）
   * 執行役員CTO 兼 開発本部長（2021/04〜2022/04）
 
@@ -199,6 +201,9 @@ https://github.com/isucon/isucon6-final
     * ファイルが多すぎてlsが打てなくなったディレクトリでファイル名のリストを出すllsを作りました https://zenn.dev/catatsuy/articles/e5f3bc7944f9fe
     * 旧ストレージ廃止大作戦−2900万超のファイルリストを取得する | PR TIMES 開発者ブログ https://developers.prtimes.jp/2021/09/15/decommissioning_old_storage_list_a_dir_29million/
     * lls v0.0.2をリリースしました https://zenn.dev/catatsuy/articles/7e3292778396b4
+  * catatsuy/cache: Cache Library for Go https://github.com/catatsuy/cache
+    * GoのGenericsを利用したインメモリキャッシュのライブラリ
+    * シンプルなキャッシュの他、singleflightより約2倍高速で使いやすい機能も提供
 
 ### 登壇
 
@@ -221,6 +226,7 @@ https://github.com/isucon/isucon6-final
 
 ## 技術系公開エントリ
 
+  * ECH時代のインターネット検閲とその運用的課題 https://zenn.dev/catatsuy/articles/3b1e07e674c875
   * ChatGPT APIを活用したGitHub Pull Request自動レビューの実践 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/10/16/automating-github-pr-reviews-with-chatgpt-api/
   * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
   * gaurunとGoのHTTP/2事情について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/2019-12-13-110000/
