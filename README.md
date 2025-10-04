@@ -194,6 +194,12 @@ https://github.com/isucon/isucon6-final
     * sedやgrepの代替として使えるpurlを作りました https://zenn.dev/catatsuy/articles/71a51c47a3b7fa
   * catatsuy/bento: Bundled ENhancements for Tasks and Operations https://github.com/catatsuy/bento
     * ChatGPTのAPIを利用してGitのブランチ名・コミットメッセージを自動生成するbentoを作りました https://zenn.dev/catatsuy/articles/1b64fc13d2e0b9
+  * catatsuy/kekkai: A lightweight Go tool for detecting file tampering by comparing content-based hashes stored securely in S3 https://github.com/catatsuy/kekkai
+    * ソースコード改竄検知ツールkekkaiの設計と導入・運用 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2025/09/22/kekkai-design-and-deployment/
+    * レガシーPHP環境向けにGo製のファイル改竄検知CLIを開発し、ファイル内容のSHA256ハッシュを比較する仕組みをOSSとして公開
+    * デプロイサーバーでマニフェストファイルを作成し、アプリケーションサーバーでマニフェストファイルの検証を行う仕組み
+    * マニフェストファイルはS3に保存し、IAMで権限を管理
+    * キャッシュや速度抑制などの仕組みがあり、実際の運用を実現
   * catatsuy/notify_slack: post to Slack on the command line https://github.com/catatsuy/notify_slack
     * notify_slackの使い方 https://zenn.dev/catatsuy/articles/81cd35d09402bc2edf5d
     * ISUCONの情報共有にはこれ！notify_slack！/isucon_notify_slack - Speaker Deck https://speakerdeck.com/catatsuy/isucon-notify-slack
