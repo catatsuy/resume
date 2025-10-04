@@ -216,6 +216,7 @@ https://github.com/isucon/isucon6-final
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+* 公式singleflightを約2倍高速化したGenerics対応実装と最適化 #gocon | Zenn https://zenn.dev/catatsuy/articles/901fbb10aa6ff2
 * 開発生産性可視化の意義とPR TIMESの事例 発表資料 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/01/26/developer-productivity-engineering-materials/
 * 次世代Webカンファレンス 2023のPerformanceセッションで登壇しました https://zenn.dev/catatsuy/articles/8fcf2e41d9f4d2
 * CDNを活用して高速なWebサービスを提供する https://zenn.dev/catatsuy/articles/ea86bdba548ab9
@@ -233,6 +234,7 @@ https://github.com/isucon/isucon6-final
 
 ## 技術系公開エントリ
 
+  * ソースコード改竄検知ツールkekkaiの設計と導入・運用 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2025/09/22/kekkai-design-and-deployment/
   * ECH時代のインターネット検閲とその運用的課題 https://zenn.dev/catatsuy/articles/3b1e07e674c875
   * ChatGPT APIを活用したGitHub Pull Request自動レビューの実践 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/10/16/automating-github-pr-reviews-with-chatgpt-api/
   * Webサービス上の画像変換とWebPの利用について | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20201211-image-optim-webp/
