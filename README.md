@@ -235,6 +235,8 @@ https://github.com/isucon/isucon6-final
 
 ## 技術系公開エントリ
 
+  * MySQLが好きな私が、今はPostgreSQLを勧めたい理由 https://zenn.dev/catatsuy/articles/f3721135c6f8f6
+  * memcachedは終わってない：単純なKVキャッシュとしての強さ https://zenn.dev/catatsuy/articles/50d77952394b9f
   * ソースコード改竄検知ツールkekkaiの設計と導入・運用 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2025/09/22/kekkai-design-and-deployment/
   * ECH時代のインターネット検閲とその運用的課題 https://zenn.dev/catatsuy/articles/3b1e07e674c875
   * ChatGPT APIを活用したGitHub Pull Request自動レビューの実践 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/10/16/automating-github-pr-reviews-with-chatgpt-api/
