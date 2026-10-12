@@ -16,8 +16,24 @@
   * 開発本部長CTO（2022/04〜2024/04）
   * 執行役員CTO 兼 開発本部長（2021/04〜2022/04）
 
+#### 主な取り組み・実績
+
+  * レガシーシステムの刷新
+    * オンプレミスからAWSへの移行とデータセンター撤退を推進
+    * PHPのバージョンアップと旧社内管理画面の全廃を推進
+    * JWTによるサービス間の認証状態の共有と、フロントエンドのReact・Next.jsへの段階的なリプレイスを推進
+    * セキュリティ診断で判明した課題への対応やログイン機能の強化を進め、継続的に改善できる技術基盤を整備
+  * 開発組織の改革
+    * 開発組織のマネジメントと技術方針の策定
+    * リファクタリングデーの導入・継続を通じて、技術的負債を継続的に解消する文化を醸成
+    * 開発者ブログなどを通じた技術発信を推進
+  * 事業基盤の改善
+    * サービスの継続運用と変更に耐えられる基盤づくりを両立する方針で、大規模なシステム刷新を段階的に推進
+
 #### 公開エントリ
 
+* PR TIMESの認証認可を再設計するときに考えたこと | PR TIMES 開発者ブログ https://developers.prtimes.com/2026/08/24/authentication-authorization-redesign/
+* PR TIMESがPHPを使い続ける判断軸 | PR TIMES 開発者ブログ https://developers.prtimes.com/2026/01/07/prtimes-php-technology-choice/
 * 変わらないサービスから、変えていけるサービスへ ──「そのままにしない」を続けてきた4年半 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2025/12/24/cto_activities_2025/
 * 2024年のPR TIMES開発者ブログ振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/12/27/cto_activities_2024/
 * PR TIMES開発本部2023年振り返り | PR TIMES 開発者ブログ https://developers.prtimes.jp/2023/12/28/cto_activities_2023/
