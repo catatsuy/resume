@@ -100,10 +100,16 @@
   * コラムでpixivの事例紹介あり
 * Software Design 2017年10月号 第1特集 個人でも会社でも使える！ これだけは知っておきたいGitのキホン 第6章：Git活用の実例［1］ クラウド=GitHubとオンプレ=GitLabを使い分けるピクシブ
 
+### Podcast
+
+* 八百万のOSS https://yaoyorozu-oss.henteko07.com/
+  * 2026年から共同ホストとして運営するOSS技術解説Podcast
+
 ### ISUCON
 
 ISUCON公式Blog https://isucon.net/
 
+  * ISUCON14 予選敗退
   * ISUCON13 アドバイザー
   * ISUCON12 予選敗退
   * ISUCON11 予選敗退
@@ -221,6 +227,8 @@ https://github.com/isucon/isucon6-final
 
 社内外の勉強会、カンファレンスで発表を行っている。
 
+* Goと一緒に育つCLI — 9年のOSS保守で見た標準ライブラリとtestingの進化 #gocon26 https://zenn.dev/catatsuy/articles/254b155f8d5992
+  * Go Conference 2026での発表
 * 公式singleflightを約2倍高速化したGenerics対応実装と最適化 #gocon | Zenn https://zenn.dev/catatsuy/articles/901fbb10aa6ff2
 * 開発生産性可視化の意義とPR TIMESの事例 発表資料 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2024/01/26/developer-productivity-engineering-materials/
 * 次世代Webカンファレンス 2023のPerformanceセッションで登壇しました https://zenn.dev/catatsuy/articles/8fcf2e41d9f4d2
@@ -239,6 +247,14 @@ https://github.com/isucon/isucon6-final
 
 ## 技術系公開エントリ
 
+  * Go 1.27のhttptest.NewTestServerをAPIクライアントのテストで使ってみて分かったこと https://zenn.dev/catatsuy/articles/8e8dbf6afd1196
+  * CDNを活用した画像配信の設計と最適化 https://zenn.dev/catatsuy/articles/43b5cf583fac76
+  * Webアプリケーションにおけるキャッシュ戦略 https://zenn.dev/catatsuy/articles/8e2c1cf3d8083c
+  * DNSとSNIが見えにくくなる時代に、外部通信をどう見るか https://zenn.dev/catatsuy/articles/566f5e37076e53
+  * 開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること https://zenn.dev/catatsuy/articles/e2fc71d810613a
+  * nginx-buildを使ってnginxでECHを有効化する方法 https://zenn.dev/catatsuy/articles/bd8d6432a3e975
+  * Let's Encryptの短期証明書はかなり厳しいのでARI対応クライアントを使った方がよい https://zenn.dev/catatsuy/articles/2ac24bccb4b7d1
+  * Goで安全に既存ファイルを更新したり再生成する方法 https://zenn.dev/catatsuy/articles/20833f8b9d5b34
   * MySQLが好きな私が、今はPostgreSQLを勧めたい理由 https://zenn.dev/catatsuy/articles/f3721135c6f8f6
   * memcachedは終わってない：単純なKVキャッシュとしての強さ https://zenn.dev/catatsuy/articles/50d77952394b9f
   * ソースコード改竄検知ツールkekkaiの設計と導入・運用 | PR TIMES 開発者ブログ https://developers.prtimes.jp/2025/09/22/kekkai-design-and-deployment/
